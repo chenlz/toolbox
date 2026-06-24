@@ -1,5 +1,0 @@
-# Bilibili gRPC ad endpoints (HTTP/2, blocked via filter)
-# Quantumult X filter rules — use in [filter_remote] or #include
-
-[filter]
-DOMAIN-SUFFIX,grpc.biliapi.net,REJECT
